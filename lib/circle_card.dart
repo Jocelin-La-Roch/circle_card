@@ -20,10 +20,10 @@ class CircleCard extends StatelessWidget {
         color: backgroundColor,
         elevation: elevation,
         shape: RoundedRectangleBorder(
-            borderRadius: BorderRadius.circular(100.0)
+            borderRadius: BorderRadius.circular(radius*100)
         ),
         child: ClipRRect(
-          borderRadius: BorderRadius.circular(100.0),
+          borderRadius: BorderRadius.circular(radius*100),
           child: Container(
             height: 2*radius,
             width: 2*radius,

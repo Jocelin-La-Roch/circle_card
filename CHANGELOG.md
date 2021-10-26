@@ -1,3 +1,4 @@
-## 0.0.1
+## 0.0.1 - Release
 
-* TODO: Describe initial release.
+* Create circle card simply.
+You will be able to change the color, elevation, add image background and child
